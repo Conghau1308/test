@@ -4,5 +4,6 @@
     {
         public int Hi { get; set; }
         public string hehehe {get;set;}
+        public int hi2 { get; set;}
     }
 }
