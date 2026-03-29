@@ -20,6 +20,6 @@
     }
     public class Myclass3
     {
-
+        public int MyString { get; set; }
     }
 }
